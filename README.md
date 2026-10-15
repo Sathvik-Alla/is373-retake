@@ -69,5 +69,25 @@ Workflow file: `.github/workflows/deploy.yml`
 - Run #4: QA-to-production promotion
 - Run #5: Production environment label correction
 
+
+## Deployment Evidence
+
+The following screenshots demonstrate successful deployment and CI/CD verification:
+
+- Production website — Version 1.1
+- QA website — Version 1.1
+- GitHub Actions — Six successful workflow runs
+
+All evidence screenshots are included in this repository.
+
+## Live Deployment Links
+
+**Production:** https://is373-sathvik.duckdns.org
+
+**QA:** https://qa-is373-sathvik.duckdns.org
+
+**GitHub Actions:** https://github.com/Sathvik-Alla/is373-retake/actions
+
 ## Conclusion
 The project demonstrates secure server configuration, Docker containerization, automated CI/CD, separate QA and production deployments, and promotion of tested changes into production.
+
